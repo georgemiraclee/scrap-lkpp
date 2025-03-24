@@ -1,0 +1,5 @@
+.venv
+data/*
+downloaded_files/*
+*.html
+*.ipynb
